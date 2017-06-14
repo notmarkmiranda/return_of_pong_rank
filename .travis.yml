@@ -3,5 +3,5 @@ rvm:
   - 2.4.0
 script:
   # - bundle exec rake db:setup
-  - rubocop
+  # - bundle exec rubocop
   - bundle exec rspec
